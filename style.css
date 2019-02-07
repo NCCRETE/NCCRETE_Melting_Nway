@@ -1,0 +1,76 @@
+body {
+  font-family: Helvetica, Arial, Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 100%;
+  width: 100vw;
+  overflow-x: hidden;
+  color: black;
+  background-color: #B3CEDE;
+  background-image: url('media/Boat.jpg');
+   background-size: cover;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+video {
+  max-width: 100%;
+  height: auto;
+  width: 40em;
+
+}
+
+.center {
+  position: absolute;
+  
+  left: 40%
+  
+}
+
+header {
+  background-color: #3E3E3E;
+  height: 28em;
+  background-image: url('media/icecaps.jpg');
+  background-size: cover;
+
+}
+
+h1 {
+  font-size: 1em;
+  width: 32em;
+  left: 42%
+  background-color: white;
+
+}
+
+h2 {
+  font-size: 1em;
+  
+ 
+}
+
+
+#site_content
+{ width: 858px;
+  overflow: hidden;
+  margin: 0 auto 0 auto;
+  padding: 10px 20px 20px 20px;
+  background: #F6F6F0 url(back.png) repeat-y;
+  border: 15px solid #c1272d;}
+
+hr {
+
+height: 30px;
+margin-left: auto;
+margin-right: auto;
+background-color:#B3CEDE;
+border: 0 none;
+margin-top: 0px;
+
+margin-bottom:17px;
+}
